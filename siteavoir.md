@@ -54,4 +54,8 @@ MongoDB: https://www.mongodb.com/fr-fr
 
 https://www.npmjs.com/package/body-parser
 
+## JWT
+
+https://jwt.io/introduction
+
 

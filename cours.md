@@ -2,7 +2,10 @@
 
 Une bibliothèque open-source qui permet la construction d'interfaces graphiques avec HTML, CSS et JavaScript.
 
-Dans cette intro nous allons: - Comprendre les avantages apportés par React - découvrir le **JSX** --> pour JavaScript XML, qui est une extension de JavaScript - Créer les **composants** --> Une fonction qui retourne du JSX - Comprendre les imports et les exports - Utiliser des **props** - Utiliser le State - Utiliser les events en React
+Dans cette intro nous allons: - Comprendre les avantages apportés par React - découvrir le 
+**JSX** --> pour JavaScript XML, qui est une extension de JavaScript - Créer les 
+**composants** --> Une fonction qui retourne du JSX - Comprendre les imports et les exports - Utiliser des 
+**props** - Utiliser le State - Utiliser les events en React
 
 React --> framework en JS
 
