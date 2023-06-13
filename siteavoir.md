@@ -58,4 +58,12 @@ https://www.npmjs.com/package/body-parser
 
 https://jwt.io/introduction
 
+## React context + reducer + ts : 
+
+https://codesandbox.io/s/context-reducer-ts-9ctis 
+
+## React ts login example : 
+
+https://www.bezkoder.com/react-typescript-login-example/ 
+
 
